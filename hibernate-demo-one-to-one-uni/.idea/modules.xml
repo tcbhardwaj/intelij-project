@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hibernate-demo-many-to-many/hibernate-demo-many-to-many.iml" filepath="$PROJECT_DIR$/../hibernate-demo-many-to-many/hibernate-demo-many-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hibernate-demo-one-to-many/hibernate-demo-one-to-many.iml" filepath="$PROJECT_DIR$/../hibernate-demo-one-to-many/hibernate-demo-one-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hibernate-demo-one-to-many-uni/hibernate-demo-one-to-many-uni.iml" filepath="$PROJECT_DIR$/../hibernate-demo-one-to-many-uni/hibernate-demo-one-to-many-uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hibernate-demo-one-to-one-bi/hibernate-demo-one-to-one-bi.iml" filepath="$PROJECT_DIR$/../hibernate-demo-one-to-one-bi/hibernate-demo-one-to-one-bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-demo-one-to-one-uni.iml" filepath="$PROJECT_DIR$/hibernate-demo-one-to-one-uni.iml" />
+    </modules>
+  </component>
+</project>
